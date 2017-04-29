@@ -23,7 +23,7 @@ function getRandomNum(upper) {
 //         break;
 //     }
 }
-document.write("You must be psychic!");
+
 
 while (guess != num) {
   guess = prompt("Please pick a number between 1 and 100");
